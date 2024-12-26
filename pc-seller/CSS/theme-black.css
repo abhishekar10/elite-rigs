@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+}
+
+.nav-logo {
+    color: rgb(242, 246, 246);
+}
+
+.navigation-options,.carousel-texts {
+    color: white ;
+}
+
+.title {
+    font-size: 50px;
+    color: aqua;
+}
+
+.nav-option:hover {
+    border-bottom: 1px solid white;
+}
