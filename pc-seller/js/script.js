@@ -1,3 +1,4 @@
+console.log(window.location.pathname);
 if(window.location.pathname !== '/elite-rigs/pc-seller/index.html') {
     document.body.style.overflow="visible";
 }
