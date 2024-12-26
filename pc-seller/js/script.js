@@ -1,4 +1,4 @@
-if(window.location.pathname !== "/pc-seller/index.html") {
+if(window.location.pathname !== '/elite-rigs/pc-seller/index.html') {
     document.body.style.overflow="visible";
 }
 let navigationOptions = document.querySelectorAll(".nav-option");
