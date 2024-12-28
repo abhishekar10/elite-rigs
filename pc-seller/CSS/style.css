@@ -28,6 +28,9 @@ body {
 .nav-logo {
     padding: 20px;
     width: 20vw;
+}
+
+#logo {
     cursor: pointer;
 }
 
