@@ -1,0 +1,34 @@
+.main-container {
+    margin: 2rem;
+    position: relative;
+}
+
+.contact-container {
+    color: aqua;
+}
+
+.contact-reason {
+    color: white;
+    margin-top: 2rem;
+    margin-left: 0%;
+}
+
+.queries {
+    display: flex;
+    margin-top: 1rem;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.query {
+    margin: 1rem;
+    width: 40%;
+    padding: 2rem;
+    background-color: rgb(41, 39, 39) ;
+    border-radius: 5px;
+}
+
+.contact-and-policies {
+    padding: 2rem;
+    text-align: center;
+}
